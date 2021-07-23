@@ -1,5 +1,5 @@
 # Library-Database
-This is a  C# project called Library Database
+This is a  C# WinForms project called Library Database
 
 Features:
 1. Add a new book
